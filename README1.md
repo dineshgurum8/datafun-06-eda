@@ -1,6 +1,6 @@
-# Project 6 - Exploratory Data Analysis of the Customer Churn
+# Project 6 - Exploratory Data Analysis of the Titanic Dataset
 
-This project is use to analyze the Customer data to based on churn
+This project uses a combination of Python and Markdown to create an initial data story of the sinking of the Titanic. Class, Sex, and Age will all be explored in relation to survival.
 
 The project includes a project virtual environment with popular libraries for data analytics including pandas, matplotlib, and seaborn, and uses a common process for exploratory data analysis projects.
 
@@ -65,10 +65,17 @@ import pyarrow
 
 The titanic dataset is one that is used often for exploratory data analysis. The Titanic dataset in Seaborn is a collection of passenger and crew information from the RMS Titanic, which sank in 1912.
 
-https://github.com/pik1989/EDA/blob/main/Data/CustomerChurn.csv 
+https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
+
 ### Steps for EDA
 
 Perform exploratory data analysis (EDA) using pandas and other tools as needed.
 
 1.  Data Acquisition
-2.  EDA
+2.  Initial Data Inspection
+3.  Initial Descriptive Statistics
+4.  Initial Data Distribution for Numerical Columns
+5.  Initial Data Distribution for Categorical Columns
+6.  Initial Data Transformation and Feature Engineering
+7.  Initial Visualizations
+8.  Initial Storytelling and Presentation
